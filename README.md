@@ -2,7 +2,7 @@ Api link - https://www.episodate.com/api
 Episode Link - https://www.episodate.com/api/show-details?q=arrow
 and search Api LInk -https://www.episodate.com/api/search?q=arrow&page=1
 
-This api type is - object and then Array
+This api GET type  - object and then Array containing Params also 
 Sample -
 {
     "total": "24451",
